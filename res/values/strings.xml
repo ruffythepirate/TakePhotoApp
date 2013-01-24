@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Take Photo Test</string>
+    <string name="button_take_photo">Take Photo! (...with camera)</string>
+    <string name="image_no_image">No Image</string>
+</resources>
